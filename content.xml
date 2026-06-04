@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260604211422326O5H</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260604211422BI9LJE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PRESENTAMOS A LOS ESTOICOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>PROYECTO FILOSÓFICO PARA 1º DE BACHILLERATO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>David García Herrera</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Desde el menú de este espacio, podemos acceder a toda la información e indicaciones para la elaboración de la presentación digital acerca del estoicismo y su exposición oral.
+
+En cada una de las pestañas, estará el link de acceso o el documento, para su consulta.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780599926407</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780596243439-62t90ks3d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780596243439-62t90ks3d</odePageId>
+      <odeBlockId>block-1780596252340-ckx8lwyka</odeBlockId>
+      <blockName>Indicaciones generales</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780596243439-62t90ks3d</odePageId>
+          <odeBlockId>block-1780596252340-ckx8lwyka</odeBlockId>
+          <odeIdeviceId>idevice-1780596252335-px4fxl8a9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="ORGANIZACIÓN">ORGANIZACIÓN</span></dt><dd>6 - 7 sesiones de 50 minutos aproximadamente.</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>1º BACHILLERATO</dd></div></dl><p><a href="https://docs.google.com/document/d/1XN1Wet_t-YyZ7s_TE-WT1PsdLVmDs7NHTxtqAzOKytk/edit?usp=sharing" title="">INTRODUCCIÓN</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780596252335-px4fxl8a9","textInfoDurationInput":"6 - 7 sesiones de 50 minutos aproximadamente.","textInfoDurationTextInput":"ORGANIZACIÓN","textInfoParticipantsInput":"1º BACHILLERATO","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"ORGANIZACIÓN\">ORGANIZACIÓN</span></dt><dd>6 - 7 sesiones de 50 minutos aproximadamente.</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>1º BACHILLERATO</dd></div></dl><p><a href=\"https://docs.google.com/document/d/1XN1Wet_t-YyZ7s_TE-WT1PsdLVmDs7NHTxtqAzOKytk/edit?usp=sharing\" title=\"\">INTRODUCCIÓN</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780596806191-ljrfmmcx9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SEGURIDAD Y BUENAS PRÁCTICAS EN INTERNET</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD Y BUENAS PRÁCTICAS EN INTERNET</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780596806191-ljrfmmcx9</odePageId>
+      <odeBlockId>block-1780596834394-amvoknpa3</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780596806191-ljrfmmcx9</odePageId>
+          <odeBlockId>block-1780596834394-amvoknpa3</odeBlockId>
+          <odeIdeviceId>idevice-1780596834388-cw64qfrpg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Consejos para el buen aprovechamiento de internet y sacar el máximo provecho del uso de herramientas digitales, minimizando los riesgos que se pueden presentar. Puedes consultarlo en el enlace que aparece abajo.</p>
+<p><a href="https://canva.link/zijqe1vubho6531" title="">GUÍA DE BUENAS PRÁCTICAS EN INTERNET</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780596834388-cw64qfrpg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Consejos para el buen aprovechamiento de internet y sacar el máximo provecho del uso de herramientas digitales, minimizando los riesgos que se pueden presentar. Puedes consultarlo en el enlace que aparece abajo.</p>\n<p><a href=\"https://canva.link/zijqe1vubho6531\" title=\"\">GUÍA DE BUENAS PRÁCTICAS EN INTERNET</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780597212731-qqy7j3lxp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DE LA TAREA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DE LA TAREA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780597212731-qqy7j3lxp</odePageId>
+      <odeBlockId>block-1780597229529-zqp7gxb6e</odeBlockId>
+      <blockName>DETALLES Y HERRAMIENTAS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780597212731-qqy7j3lxp</odePageId>
+          <odeBlockId>block-1780597229529-zqp7gxb6e</odeBlockId>
+          <odeIdeviceId>idevice-1780597229524-2i63hpbe8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podéis consultar todos los detalles de la organización de vuestra actividad sobre los autores estoicos.</p>
+<p><a href="https://docs.google.com/document/d/1d-rl3JqKjPR9c8mAhdFT4dUHSecPCguiQpCjo57R1HU/edit?hl=es&amp;tab=t.0" title="">DESCRIPCIÓN Y FASES DEL PROYECTO</a></p>
+<p></p>
+<p>También tenéis los accesos a las web de las herramientas que os propongo para crear la presentación.</p>
+<p><a href="https://www.canva.com/" title="">PARA USAR CANVA PULSA AQUÍ</a></p>
+<p><a href="https://genially.com/es/?v=A" title="">PARA USAR GENIALLY PULSA AQUÍ</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780597229524-2i63hpbe8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podéis consultar todos los detalles de la organización de vuestra actividad sobre los autores estoicos.</p>\n<p><a href=\"https://docs.google.com/document/d/1d-rl3JqKjPR9c8mAhdFT4dUHSecPCguiQpCjo57R1HU/edit?hl=es&amp;tab=t.0\" title=\"\">DESCRIPCIÓN Y FASES DEL PROYECTO</a></p>\n<p></p>\n<p>También tenéis los accesos a las web de las herramientas que os propongo para crear la presentación.</p>\n<p><a href=\"https://www.canva.com/\" title=\"\">PARA USAR CANVA PULSA AQUÍ</a></p>\n<p><a href=\"https://genially.com/es/?v=A\" title=\"\">PARA USAR GENIALLY PULSA AQUÍ</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780597733337-q07wbtgmr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FUENTES DE INFORMACIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FUENTES DE INFORMACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780597733337-q07wbtgmr</odePageId>
+      <odeBlockId>block-1780597740129-q4fyasia4</odeBlockId>
+      <blockName>PÁGINAS CON RECURSOS PARA LA INVESTIGACIÓN</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780597733337-q07wbtgmr</odePageId>
+          <odeBlockId>block-1780597740129-q4fyasia4</odeBlockId>
+          <odeIdeviceId>idevice-1780597740124-4syzr2d70</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Desde aquí, podréis acceder a repositorios con contenidos que pueden ofreceros información directa y fiable para realizar el proyecto.</p>
+<p><a href="https://padlet.com/holdennnn87/proyecto-estoico-qj1o1zif6pw4pjmx" title="">FUENTES DE CONSULTA SOBRE EL ESTOICISMO</a></p>
+<p><a href="https://www.diigo.com/user/dgarher942" title="">FUENTES GENERALES DE FILOSOFÍA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780597740124-4syzr2d70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desde aquí, podréis acceder a repositorios con contenidos que pueden ofreceros información directa y fiable para realizar el proyecto.</p>\n<p><a href=\"https://padlet.com/holdennnn87/proyecto-estoico-qj1o1zif6pw4pjmx\" title=\"\">FUENTES DE CONSULTA SOBRE EL ESTOICISMO</a></p>\n<p><a href=\"https://www.diigo.com/user/dgarher942\" title=\"\">FUENTES GENERALES DE FILOSOFÍA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780598059624-ablvvdl7j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TEMPORALIZACIÓN DE LA ACTIVIDAD</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN DE LA ACTIVIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780598059624-ablvvdl7j</odePageId>
+      <odeBlockId>block-1780598064734-yayicq99d</odeBlockId>
+      <blockName>ORGANIZACIÓN TEMPORAL DEL PROYECTO</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780598059624-ablvvdl7j</odePageId>
+          <odeBlockId>block-1780598064734-yayicq99d</odeBlockId>
+          <odeIdeviceId>idevice-1780598064729-deqpc7owv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/MAPA MENTAL PROYECTO 2.jpg" title="LÍNEA TEMPORAL DE LA ORGANIZACIÓN PARA EL TRABAJO" width="1440" height="807" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780598064729-deqpc7owv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/MAPA MENTAL PROYECTO 2.jpg\" title=\"LÍNEA TEMPORAL DE LA ORGANIZACIÓN PARA EL TRABAJO\" width=\"1440\" height=\"807\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780598698245-30jollhbi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780598698245-30jollhbi</odePageId>
+      <odeBlockId>block-1780598698246-pj630m0jq</odeBlockId>
+      <blockName>CRITERIOS E INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780598698245-30jollhbi</odePageId>
+          <odeBlockId>block-1780598698246-pj630m0jq</odeBlockId>
+          <odeIdeviceId>idevice-1780598698246-bm74vqlsv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Podéis acceder a la consulta de los criterios de evaluación asociados al proyecto estoico. Os recomiendo su lectura para poder diseñar un trabajo ajustado a las habilidades competenciales que se van a evaluar.</p>
+<p><a href="https://docs.google.com/document/d/1f6AWCZsVVD6nY5Hiqi2B7HYF_7S2uRBiCoW82QTrSMY/edit?usp=sharing" title="">CRITERIOS DE EVALUACIÓN</a></p>
+<p></p>
+<p>También os presento, cómo estos se relacionarán con los instrumentos de evaluación.</p>
+<p><a href="https://docs.google.com/document/d/1F0YRxlICLsZ7oPcWaxF_lwEa5ClQImD5eHP27G19yYY/edit?usp=drivesdk" title="">INSTRUMENTOS DE EVALUACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780598698246-bm74vqlsv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Podéis acceder a la consulta de los criterios de evaluación asociados al proyecto estoico. Os recomiendo su lectura para poder diseñar un trabajo ajustado a las habilidades competenciales que se van a evaluar.</p>\n<p><a href=\"https://docs.google.com/document/d/1f6AWCZsVVD6nY5Hiqi2B7HYF_7S2uRBiCoW82QTrSMY/edit?usp=sharing\" title=\"\">CRITERIOS DE EVALUACIÓN</a></p>\n<p></p>\n<p>También os presento, cómo estos se relacionarán con los instrumentos de evaluación.</p>\n<p><a href=\"https://docs.google.com/document/d/1F0YRxlICLsZ7oPcWaxF_lwEa5ClQImD5eHP27G19yYY/edit?usp=drivesdk\" title=\"\">INSTRUMENTOS DE EVALUACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780599942154-ov9ghcx3u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780599942154-ov9ghcx3u</odePageId>
+      <odeBlockId>block-1780600002115-x7p5qe4qm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780599942154-ov9ghcx3u</odePageId>
+          <odeBlockId>block-1780600002115-x7p5qe4qm</odeBlockId>
+          <odeIdeviceId>idevice-1780600002109-5kxw3pis3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autor: David García Herrera.</p>
+<p>Recurso educativo digital abierto para el profesorado.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-04 a las 20.59.39.jpg" width="1184" height="684" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780600002109-5kxw3pis3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: David García Herrera.</p>\n<p>Recurso educativo digital abierto para el profesorado.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-04 a las 20.59.39.jpg\" width=\"1184\" height=\"684\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780599942154-ov9ghcx3u</odePageId>
+      <odeBlockId>block-1780600219532-ro6ps1uu1</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780599942154-ov9ghcx3u</odePageId>
+          <odeBlockId>block-1780600219532-ro6ps1uu1</odeBlockId>
+          <odeIdeviceId>idevice-1780600219522-25exmvrgj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PRESENTAMOS A LOS ESTOICOS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Desde el menú de este espacio, podemos acceder a toda la información e indicaciones para la elaboración de la presentación digital acerca del estoicismo y su exposición oral.
+
+En cada una de las pestañas, estará el link de acceso o el documento, para su consulta.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">David García Herrera</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
